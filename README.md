@@ -1,2 +1,2 @@
-# TestTorre
-Test Torre
+# Solution Technical test Torre
+I use Angular 12
